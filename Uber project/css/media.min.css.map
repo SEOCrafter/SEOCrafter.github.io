@@ -1,9 +1,0 @@
-{
-    "version": 3,
-    "mappings": "AAAA,MAAM,CAAN,iBAAM",
-    "sources": [
-        "../sass/media.sass"
-    ],
-    "names": [],
-    "file": "media.min.css"
-}
